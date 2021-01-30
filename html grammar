@@ -1,0 +1,75 @@
+<titlt> set the page title
+<base> set the base url
+<meta> defining meta information
+keywords set page keywords
+expires sets the page expiration time
+bgcolor setting page background
+topmargin sets the distance to the top
+leftmargin sets the distance to the left
+rightmargin sets the distance to the right
+bottommargin sets the distance to the bottom edge
+text design text color
+add comments
+  add spaces
+<del> add strikethrough
+<ruby> set the text annotation mark
+<sup> set text superscript
+<sub> set text subscript
+<address > set the address text
+<tt> set the printer display style
+<code> equal width text setting
+<samp> equal width text setting
+<kbd> keyboard input style<p></p> paragraph
+<br>carriage return
+<pre> <pre > pre format
+<blockquote></blockquote> set paragraph indent
+<hr> insert and set the horizontal line
+<dl></dl> insert definition list
+<ul></ul> insert unordered list
+<ol></ol> insert sequence table
+<table></table> insert table
+<tr></ tr> define line Tags
+<td></td> definition list
+<caption>< /caption> set table title
+<th></th> set table start
+<thead></thead>defines a set of header rows
+<tfoot></tfoot> indicates adding a label to the table
+<tbody></ tbody> defines the body content of the table
+width sets the width of the table
+border sets table border properties
+frame sets the style of the table border
+rules sets the properties of the inner border of the table
+align adjusts the horizontal alignment of line contents
+valign adjusts the vertical alignment of line contents
+rowspan set cross row
+colspan set cross column
+setting cell spacing
+setting cell margins
+creation of <div> </div> layer
+src setting frame source file properties
+name field frame name
+frameBorder sets the frame border
+scrolling display frame scroll bar
+noresize adjust frame size
+marginwidth sets the frame edge width
+marginheight sets the height of the frame edge
+<noframe></noframe> add unsupported frame tag
+<frameset> set frameset
+cols left and right split border
+rows split border up and down
+<iframe></iframe> floating frame
+<form></form> form tags
+<input> information input
+textinsert text box
+password insert password box
+file insert file field
+checkboxinsert checkbox
+radio insert radio button
+button insert standard button
+submit insert submit button
+reset insert reset button
+Image insert image field
+textarea insert text field
+hidden insert hidden field
+<Select> insert drop down menu
+<option> insert list item
